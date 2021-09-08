@@ -13,13 +13,13 @@ from random import randint
 
 
 print("Your fortune cookie says...")
-fortune= randint(1, 4)
+fortune = randint(1, 4)
 if fortune == 1:
     print("you will fail this class")
 else:
     if fortune == 2:
         print("good fortune will come your way")
-    if fortune==3:
+    if fortune == 3:
         print("you will fall down the stairs soon")
-    if fortune==4:
+    if fortune == 4:
         print("you will win the lottery")

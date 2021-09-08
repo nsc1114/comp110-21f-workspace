@@ -15,4 +15,3 @@ while index < len(word):
         index = index + 1
 
 print("Count: " + str(count))
-

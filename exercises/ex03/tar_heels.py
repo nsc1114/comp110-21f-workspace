@@ -6,12 +6,12 @@ __author__ = "730394272"
 number: str = input("Enter an int: ")
 if int(number) % 2 == 0:
     if int(number) % 7 == 0:
-        print("Tar Heels")
+        print("TAR HEELS")
     else:
-        print("Tar")
+        print("TAR")
 else:
     if int(number) % 7 == 0:
-        print("Heels")
+        print("HEELS")
     else:
-        print("Carolina")
+        print("CAROLINA")
    
